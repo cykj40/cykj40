@@ -1,4 +1,4 @@
-# Cyrus Khiabani
+# Cyrus Jalili Khiabani
 
 Technical Project Manager moving into software/AI engineering. I build MCP servers and AI tools
 that run in production — for construction field operations and for a personal health-data stack.
