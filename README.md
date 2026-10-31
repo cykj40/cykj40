@@ -20,7 +20,7 @@ AI SDK tool calls to ship faster and kept the graph implementation at the `langg
 ### Stack
 **Languages:** TypeScript · Go · Python · C
 
-**Frameworks & tools:** Next.js · React · Fastify · Zod · MCP SDK · Claude API · OpenAI API · n8n
+**Frameworks & tools:** Next.js · React · Fastify · Zod · MCP SDK · Claude API · OpenAI API · Vercel AI SDK
 
 **Infra:** Fly.io · Vercel · Neon · Turso
 
