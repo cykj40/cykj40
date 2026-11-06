@@ -24,8 +24,11 @@ AI SDK tool calls to ship faster and kept the graph implementation at the `langg
 
 **Infra:** Fly.io · Vercel · Neon · Turso
 
+### How I build
+I direct coding agents in small, checkpointed rounds: write the plan, break it into a checklist, have the agent build each piece against tests I define, and review every round. I harden security as I go (Zod input validation, OAuth2 auth flows). Agents write most of the code. I own the architecture, the constraints, and the verification.
+
 ### Background
 Self-taught. Rutgers Web Dev Bootcamp, IBM Web Development Professional Certificate,
 675+ hours on Frontend Masters. I found gaps inside a non-technical industry and shipped the tools myself.
 
-[cyruskhiabani.com](https://cyruskhiabani.com)
+Open to AI engineering roles: [cyruskhiabani.com](https://cyruskhiabani.com)
